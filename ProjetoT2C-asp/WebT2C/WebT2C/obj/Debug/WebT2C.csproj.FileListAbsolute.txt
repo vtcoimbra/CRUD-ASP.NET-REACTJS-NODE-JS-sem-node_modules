@@ -1,0 +1,152 @@
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\WebT2C.dll.config
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\WebT2C.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\WebT2C.pdb
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csc.exe
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csc.exe.config
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csc.rsp
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csi.exe
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csi.exe.config
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csi.rsp
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.AppContext.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Console.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.IO.Compression.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Net.Http.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.ValueTuple.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\vbc.exe
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\vbc.exe.config
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\vbc.rsp
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\VBCSCompiler.exe
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Antlr3.Runtime.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Newtonsoft.Json.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\System.Web.Optimization.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\WebGrease.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\System.Web.Optimization.xml
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Newtonsoft.Json.xml
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Antlr3.Runtime.pdb
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.csprojAssemblyReference.cache
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.csproj.CoreCompileInputs.cache
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.csproj.CopyComplete
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.pdb
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\System.Net.Http.Formatting.dll
+C:\Users\MaqDev\Desktop\ProjetoT2C-asp\WebT2C\WebT2C\bin\System.Net.Http.Formatting.xml
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\WebT2C.dll.config
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\WebT2C.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\WebT2C.pdb
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csc.exe
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csc.exe.config
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csc.rsp
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csi.exe
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csi.exe.config
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\csi.rsp
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.AppContext.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Console.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.IO.Compression.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Net.Http.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.ValueTuple.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\vbc.exe
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\vbc.exe.config
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\vbc.rsp
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\VBCSCompiler.exe
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Antlr3.Runtime.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Newtonsoft.Json.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\System.Net.Http.Formatting.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\System.Web.Optimization.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\WebGrease.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Newtonsoft.Json.xml
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\System.Net.Http.Formatting.xml
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\System.Web.Optimization.xml
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Antlr3.Runtime.pdb
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.csprojAssemblyReference.cache
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.csproj.CoreCompileInputs.cache
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.csproj.CopyComplete
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.dll
+C:\Users\MaqDev\Desktop\CRUD - ASP.NET - REACTJS - NODE-JS\ProjetoT2C-asp\WebT2C\WebT2C\obj\Debug\WebT2C.pdb
